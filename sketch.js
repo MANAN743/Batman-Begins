@@ -28,7 +28,7 @@ for(var i=0;i<maxDrops;i++){
 }
 
 function draw(){
- background(200);
+ background(0);
  Engine.update(engine);
  
  umbrella.display();
